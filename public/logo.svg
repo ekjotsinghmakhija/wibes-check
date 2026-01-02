@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g transform="translate(10, 10)">
+
+    <polygon points="50,5 93,28 93,72 50,95 7,72 7,28"
+             fill="none"
+             stroke="#5b4dff"
+             stroke-width="3"
+             filter="url(#neon-glow)"
+             stroke-linecap="round"
+             stroke-linejoin="round"/>
+
+    <text x="50" y="68"
+          font-family="Arial, Helvetica, sans-serif"
+          font-weight="900"
+          font-size="50"
+          fill="white"
+          text-anchor="middle"
+          filter="url(#neon-glow)">W</text>
+
+    <circle cx="93" cy="22" r="3" fill="#5b4dff" filter="url(#neon-glow)"/>
+    <circle cx="93" cy="22" r="1.5" fill="white"/>
+  </g>
+</svg>
