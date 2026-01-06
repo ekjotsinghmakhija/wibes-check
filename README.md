@@ -74,7 +74,7 @@ Follow these steps to run Wibes Check locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/ekjotsinghmakhija/wibes-check.git](https://github.com/ekjotsinghmakhija/wibes-check.git)
+    git clone https://github.com/ekjotsinghmakhija/wibes-check.git
     cd wibes-check
     ```
 
@@ -130,10 +130,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Ekjot Singh**
 
-* Website: [ekjot.me](https://ekjot.me)
-* GitHub: [@ekjotsinghmakhija](https://github.com/ekjotsinghmakhija)
-* LinkedIn: [Ekjot Singh](https://www.linkedin.com/in/ekjot-singh-thefirst/)
-
+* Website: <a href="https://ekjot.me" target="_blank">ekjot.me</a>
+* LinkedIn: <a href="https://www.https://www.google.com/search?q=linkedin.com/in/ekjot-singh-thefirst/" target="_blank">https://www.google.com/search?q=linkedin.com/in/ekjot-singh-thefirst</a>
+* GitHub: <a href="https://github.com/ekjotsinghmakhija" target="_blank">@ekjotsinghmakhija</a>
 ---
 <div align="center">
   <p>Built with ❤️  and Next.js</p>
