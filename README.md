@@ -1,6 +1,6 @@
 # Wibes Check — Web Intelligence Engine
 
-![Wibes Check Banner](public/assets/landing-preview.png)
+![Wibes Check Banner](public/assets/desktop-landing.png)
 
 <div align="center">
 
@@ -23,14 +23,14 @@ Unlike heavy enterprise tools, Wibes Check is built for speed and visual clarity
 
 ## 📸 Intelligence Dashboard
 
-![Dashboard Preview](public/assets/dashboard-preview.jpg)
+![Dashboard Preview](public/assets/desktop-dashboard.jpg)
 
 ## 🔮 Capabilities
 
 Wibes Check is divided into four intelligence modules:
 
 ### 🛡️ Security Intelligence
-* **SSL/TLS Analysis:** Detailed handshake inspection, certificate issuer, validity, and protocol versions.
+* **SSL/TLS Analysis:** detailed handshake inspection, certificate issuer, validity, and protocol versions.
 * **Security Headers:** Checks for HSTS, CSP, X-Frame-Options, and other critical security policies.
 * **Firewall Detection:** Identifies WAFs like Cloudflare, AWS CloudFront, Akamai, or Vercel Firewall.
 * **Email Security:** Validates SPF and DMARC records to prevent email spoofing.
